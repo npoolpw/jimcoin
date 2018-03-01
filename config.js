@@ -15,5 +15,5 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["jim.npool.pw", "http://jim.npool.pw:10060"]
+        ["npool.pw/jimcoin", "http://jim.npool.pw:10060"]
 ];
