@@ -1,8 +1,8 @@
-var api = "http://apihost.com:port";
+var api = "http://jim.npool.pw:10060";
 
-var poolHost = "apihost.com";
+var poolHost = "jim.npool.pw";
 
-var blockExplorer = "http://blockexplorer.pw/coin";
+var blockExplorer = "http://blockexplorer.pw/jim";
 
 var cryptonatorWidget = ["BTC-USD", "XMR-USD"];
 
@@ -15,5 +15,5 @@ var transactionExplorer = "http://blockexplorer.pw/{symbol}/?hash={id}#blockchai
 var themeCss = "themes/default-theme.css";
 
 var networkStat = [
-        ["coin.apihost.com", "http://coin.apihost.com:port"],
+        ["jim.npool.pw", "http://jim.npool.pw:10060"]
 ];
